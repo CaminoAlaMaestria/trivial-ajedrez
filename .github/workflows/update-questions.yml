@@ -1,0 +1,29 @@
+name: Actualizar preguntas diarias
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Ejecutar cada día a medianoche UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v3
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+
+      - name: Actualizar preguntas
+        run: node script_diario.js
+
+      - name: Subir cambios
+        run: |
+          git config --global user.name "CaminoAlaMaestria Bot"
+          git config --global user.email "actions@github.com"
+          git add preguntas.json
+          git commit -m "🔁 Actualización automática de preguntas $(date)"
+          git push
