@@ -1,0 +1,99 @@
+{
+  "historia": {
+    "iniciacion": [
+      { "pregunta": "¿Dónde se originó el ajedrez moderno?", "opciones": ["India", "China", "Persia", "Egipto"], "respuesta": "India" },
+      { "pregunta": "¿En qué siglo surgió el ajedrez en su forma actual?", "opciones": ["Siglo XV", "Siglo XIII", "Siglo XVIII", "Siglo XII"], "respuesta": "Siglo XV" },
+      { "pregunta": "¿Qué civilización introdujo el ajedrez en Europa?", "opciones": ["Árabes", "Griegos", "Romanos", "Egipcios"], "respuesta": "Árabes" },
+      { "pregunta": "¿Qué pieza cambió más su movimiento con el tiempo?", "opciones": ["La dama", "El peón", "El rey", "El alfil"], "respuesta": "La dama" },
+      { "pregunta": "¿Cuál fue el primer país europeo con gran tradición ajedrecística?", "opciones": ["España", "Italia", "Francia", "Alemania"], "respuesta": "España" }
+    ],
+    "avanzado": [
+      { "pregunta": "¿Qué tratado de 1561 sentó las bases del ajedrez moderno?", "opciones": ["Repetición de Amores y Arte de Ajedrez", "Libro de la invención liberal y arte del juego del ajedrez", "De ludo scachorum", "Le Jeu des Eschecs Moralisé"], "respuesta": "Repetición de Amores y Arte de Ajedrez" },
+      { "pregunta": "¿Quién fue Lucena?", "opciones": ["Autor del primer tratado de ajedrez impreso", "Primer campeón mundial", "Jugador italiano del siglo XVII", "Un rey persa"], "respuesta": "Autor del primer tratado de ajedrez impreso" },
+      { "pregunta": "¿Qué país organizó el primer torneo internacional de ajedrez?", "opciones": ["Inglaterra", "España", "Francia", "Alemania"], "respuesta": "Inglaterra" },
+      { "pregunta": "¿Qué ajedrecista fue conocido como 'el genio de Riga'?", "opciones": ["Mikhail Tal", "Boris Spassky", "Anatoly Karpov", "Viktor Korchnoi"], "respuesta": "Mikhail Tal" },
+      { "pregunta": "¿En qué año se fundó la FIDE?", "opciones": ["1924", "1914", "1935", "1948"], "respuesta": "1924" }
+    ]
+  },
+  "jugadores_actuales": {
+    "iniciacion": [
+      { "pregunta": "¿Quién es Magnus Carlsen?", "opciones": ["Un jugador de ajedrez noruego", "Un streamer", "Un escritor", "Un árbitro"], "respuesta": "Un jugador de ajedrez noruego" },
+      { "pregunta": "¿De qué país es Hikaru Nakamura?", "opciones": ["Estados Unidos", "Japón", "Canadá", "Noruega"], "respuesta": "Estados Unidos" },
+      { "pregunta": "¿Quién fue campeón mundial antes de Magnus Carlsen?", "opciones": ["Viswanathan Anand", "Garry Kasparov", "Vladimir Kramnik", "Boris Gelfand"], "respuesta": "Viswanathan Anand" },
+      { "pregunta": "¿Qué jugador español es conocido como 'El Niño de Oro'?", "opciones": ["David Antón", "Pepe Cuenca", "Paco Vallejo", "Iván Salgado"], "respuesta": "David Antón" },
+      { "pregunta": "¿Qué plataforma en línea usa Carlsen para jugar partidas rápidas?", "opciones": ["Lichess", "Chess.com", "Internet Chess Club", "FIDE Arena"], "respuesta": "Chess.com" }
+    ],
+    "avanzado": [
+      { "pregunta": "¿Qué defensa popularizó Hikaru Nakamura en partidas rápidas?", "opciones": ["Defensa Bongcloud", "Defensa Siciliana", "Defensa Francesa", "Defensa Escandinava"], "respuesta": "Defensa Bongcloud" },
+      { "pregunta": "¿Qué jugador ruso derrotó a Magnus Carlsen en el Mundial Blitz 2021?", "opciones": ["Maxime Vachier-Lagrave", "Ian Nepomniachtchi", "Daniil Dubov", "Sergey Karjakin"], "respuesta": "Maxime Vachier-Lagrave" },
+      { "pregunta": "¿Cuál es el ELO máximo histórico de Carlsen?", "opciones": ["2882", "2851", "2901", "2875"], "respuesta": "2882" },
+      { "pregunta": "¿Quién fue el retador de Carlsen en el Campeonato Mundial 2023?", "opciones": ["Ian Nepomniachtchi", "Ding Liren", "Fabiano Caruana", "Sergey Karjakin"], "respuesta": "Ding Liren" },
+      { "pregunta": "¿Qué streamer español ha popularizado el ajedrez entre jóvenes?", "opciones": ["El Divis", "Ibai Llanos", "Rubius", "AuronPlay"], "respuesta": "El Divis" }
+    ]
+  },
+  "jugadores_historicos": {
+    "iniciacion": [
+      { "pregunta": "¿Quién fue Bobby Fischer?", "opciones": ["Campeón mundial de ajedrez estadounidense", "Pintor", "Matemático", "Actor"], "respuesta": "Campeón mundial de ajedrez estadounidense" },
+      { "pregunta": "¿De qué país era José Raúl Capablanca?", "opciones": ["Cuba", "España", "México", "Argentina"], "respuesta": "Cuba" },
+      { "pregunta": "¿Qué jugador soviético dominó los años 80?", "opciones": ["Garry Kasparov", "Anatoly Karpov", "Viktor Korchnoi", "Mikhail Tal"], "respuesta": "Garry Kasparov" },
+      { "pregunta": "¿Quién fue el primer campeón mundial oficial?", "opciones": ["Wilhelm Steinitz", "Emanuel Lasker", "Adolf Anderssen", "Paul Morphy"], "respuesta": "Wilhelm Steinitz" },
+      { "pregunta": "¿Qué jugador fue llamado 'el Mozart del ajedrez'?", "opciones": ["José Raúl Capablanca", "Paul Morphy", "Bobby Fischer", "Anatoly Karpov"], "respuesta": "José Raúl Capablanca" }
+    ],
+    "avanzado": [
+      { "pregunta": "¿En qué año Fischer ganó el campeonato mundial?", "opciones": ["1972", "1965", "1980", "1990"], "respuesta": "1972" },
+      { "pregunta": "¿Qué jugador soviético fue campeón antes de Karpov?", "opciones": ["Boris Spassky", "Tigran Petrosian", "Mikhail Tal", "Vassily Smyslov"], "respuesta": "Boris Spassky" },
+      { "pregunta": "¿Quién fue el rival de Capablanca en 1927?", "opciones": ["Alexander Alekhine", "Emanuel Lasker", "Frank Marshall", "Mikhail Botvinnik"], "respuesta": "Alexander Alekhine" },
+      { "pregunta": "¿Cuántos campeonatos mundiales ganó Kasparov?", "opciones": ["6", "5", "4", "7"], "respuesta": "6" },
+      { "pregunta": "¿Qué maestro fue conocido por su estilo táctico extremo?", "opciones": ["Mikhail Tal", "Petrosian", "Lasker", "Smyslov"], "respuesta": "Mikhail Tal" }
+    ]
+  },
+  "reglas_historicas": {
+    "iniciacion": [
+      { "pregunta": "¿Qué pieza cambió su movimiento en el siglo XV?", "opciones": ["La dama", "El peón", "El alfil", "El rey"], "respuesta": "La dama" },
+      { "pregunta": "¿Qué pieza podía saltar en la Edad Media?", "opciones": ["El alfil", "El peón", "El rey", "La torre"], "respuesta": "El alfil" },
+      { "pregunta": "¿Cómo se llamaba el ajedrez en Persia?", "opciones": ["Shatranj", "Shatar", "Chaturanga", "Schach"], "respuesta": "Shatranj" }
+    ],
+    "avanzado": [
+      { "pregunta": "¿Cómo se llamaba la dama antes de tener su movimiento actual?", "opciones": ["Alferza", "Vizir", "Consejera", "Guerrera"], "respuesta": "Alferza" },
+      { "pregunta": "¿Cuándo se introdujo el enroque moderno?", "opciones": ["Siglo XVII", "Siglo XV", "Siglo XVIII", "Siglo XVI"], "respuesta": "Siglo XVII" },
+      { "pregunta": "¿Qué norma cambió en 1860 sobre tablas?", "opciones": ["Regla de las 50 jugadas", "Repetición triple", "Tablas por acuerdo", "Tiempo de juego"], "respuesta": "Regla de las 50 jugadas" }
+    ]
+  },
+  "reglas_actuales": {
+    "iniciacion": [
+      { "pregunta": "¿Cuántas piezas tiene cada jugador al empezar?", "opciones": ["16", "12", "10", "8"], "respuesta": "16" },
+      { "pregunta": "¿Cuántas casillas tiene el tablero?", "opciones": ["64", "81", "100", "72"], "respuesta": "64" },
+      { "pregunta": "¿Qué ocurre si el rey queda en jaque y no puede moverse?", "opciones": ["Jaque mate", "Empate", "Tablas", "Pierde una pieza"], "respuesta": "Jaque mate" }
+    ],
+    "avanzado": [
+      { "pregunta": "¿Qué ocurre si un peón llega a la última fila?", "opciones": ["Se promociona", "Se elimina", "Se convierte en rey", "Se cambia por un peón rival"], "respuesta": "Se promociona" },
+      { "pregunta": "¿Qué es un ahogado?", "opciones": ["Empate", "Victoria del rival", "Jaque doble", "Error de reloj"], "respuesta": "Empate" },
+      { "pregunta": "¿Cuántos reyes pueden enrocar?", "opciones": ["Solo uno", "Ambos", "Depende de la apertura", "Ninguno"], "respuesta": "Solo uno" }
+    ]
+  },
+  "teoria": {
+    "iniciacion": [
+      { "pregunta": "¿Qué es el enroque?", "opciones": ["Una jugada especial de rey y torre", "Un tipo de jaque mate", "Una apertura", "Un sacrificio"], "respuesta": "Una jugada especial de rey y torre" },
+      { "pregunta": "¿Qué pieza es más valiosa?", "opciones": ["La dama", "El alfil", "El caballo", "El peón"], "respuesta": "La dama" },
+      { "pregunta": "¿Qué significa 'desarrollo' en ajedrez?", "opciones": ["Mover piezas hacia el centro", "Cambiar piezas", "Jugar rápido", "Proteger el rey"], "respuesta": "Mover piezas hacia el centro" }
+    ],
+    "avanzado": [
+      { "pregunta": "¿Cuál es el objetivo principal en la apertura?", "opciones": ["Controlar el centro", "Cambiar piezas", "Proteger los peones", "Jugar con el rey"], "respuesta": "Controlar el centro" },
+      { "pregunta": "¿Qué es un gambito?", "opciones": ["Sacrificio en la apertura", "Ataque directo al rey", "Fallo táctico", "Error de principiante"], "respuesta": "Sacrificio en la apertura" },
+      { "pregunta": "¿Qué significa zugzwang?", "opciones": ["Obligación de mover en posición perdedora", "Ataque doble", "Repetición triple", "Jaque continuo"], "respuesta": "Obligación de mover en posición perdedora" }
+    ]
+  },
+  "problemas": {
+    "iniciacion": [
+      { "pregunta": "¿Qué significa 'mate en uno'?", "opciones": ["Se puede dar jaque mate en una jugada", "Se gana una pieza", "El rival abandona", "Empate"], "respuesta": "Se puede dar jaque mate en una jugada" },
+      { "pregunta": "¿Qué pieza suele dar más jaques mates?", "opciones": ["La dama", "El caballo", "El peón", "El alfil"], "respuesta": "La dama" },
+      { "pregunta": "¿Qué significa 'clavada'?", "opciones": ["Pieza inmóvil por proteger al rey", "Ataque doble", "Movimiento ilegal", "Error del rival"], "respuesta": "Pieza inmóvil por proteger al rey" }
+    ],
+    "avanzado": [
+      { "pregunta": "¿Cómo se llama el sacrificio de dama para dar mate?", "opciones": ["Sacrificio de dama", "Gambito de dama", "Ataque griego", "Clavada"], "respuesta": "Sacrificio de dama" },
+      { "pregunta": "¿Qué es un mate de Boden?", "opciones": ["Dos alfiles dando mate cruzado", "Dama y torre atacando al rey", "Mate con caballos", "Mate con peones"], "respuesta": "Dos alfiles dando mate cruzado" },
+      { "pregunta": "¿Qué es un mate de Legal?", "opciones": ["Combinación clásica con sacrificio de dama", "Ataque con enroque largo", "Defensa francesa", "Táctica de tablas"], "respuesta": "Combinación clásica con sacrificio de dama" }
+    ]
+  }
+}
+
