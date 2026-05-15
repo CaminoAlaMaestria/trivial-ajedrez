@@ -33,76 +33,148 @@
   { "cat": "Jugadores históricos", "q": "¿Qué maestro fue conocido por su estilo táctico extremo?", "a": ["Mikhail Tal", "Petrosian", "Lasker", "Smyslov"], "c": 0 },
 
 
-{ "cat": "Reglas del ajedrez", "q": "¿Qué ocurre si un jugador es alineado en un equipo inferior cuando debería jugar en uno superior según orden de fuerza?", "a": ["Alineación indebida", "Orden cambiado", "Advertencia", "Nada"], "c": 0 },
-{ "cat": "Reglas del ajedrez", "q": "¿Qué sanción implica una alineación indebida en un encuentro?", "a": ["Derrota del equipo", "Pérdida de un punto", "Advertencia", "Repetición"], "c": 0 },
-{ "cat": "Reglas del ajedrez", "q": "¿Qué ocurre si un jugador aparece en dos actas de la misma ronda?", "a": ["Alineación indebida en ambos equipos", "Solo advertencia", "Se anula una partida", "Nada"], "c": 0 },
-{ "cat": "Reglas del ajedrez", "q": "¿Qué pasa si un equipo juega con orden cambiado entre dos tableros?", "a": ["Pierde los puntos entre esos tableros", "Pierde todo el encuentro", "Nada", "Advertencia"], "c": 0 },
-{ "cat": "Reglas del ajedrez", "q": "¿Qué sucede si el error de orden es entre tablero 1 y 7?", "a": ["Pierde los 7 tableros", "Pierde uno", "No hay sanción", "Empate"], "c": 0 },
+[
+  { "cat": "Reglas del ajedrez", "q": "¿Cuántas casillas tiene el tablero de ajedrez?", "a": ["64", "72", "81", "100"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Cuántas piezas tiene cada jugador al empezar la partida?", "a": ["16", "14", "12", "18"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Cuántos peones tiene cada jugador al inicio?", "a": ["8", "6", "10", "7"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿En qué filas comienzan los peones (blancas y negras)?", "a": ["2ª y 7ª", "1ª y 8ª", "3ª y 6ª", "2ª y 8ª"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Cuántos movimientos diferentes puede tener un caballo desde el centro del tablero?", "a": ["8", "6", "4", "10"], "c": 0 },
 
-{ "cat": "Reglas del ajedrez", "q": "¿Qué diferencia máxima de ELO permite alterar el orden en autonómicas?", "a": ["100 puntos", "50 puntos", "200 puntos", "Ninguna"], "c": 0 },
-{ "cat": "Reglas del ajedrez", "q": "¿Qué ocurre si se supera esa diferencia de ELO?", "a": ["Alineación indebida", "Orden cambiado", "Advertencia", "Nada"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué pieza se mueve en diagonal cualquier número de casillas?", "a": ["Alfil", "Torre", "Caballo", "Rey"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué pieza se mueve en línea recta (horizontal o vertical) cualquier número de casillas?", "a": ["Torre", "Alfil", "Caballo", "Peón"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué pieza combina el movimiento de torre y alfil?", "a": ["Dama", "Rey", "Caballo", "Peón"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Cuál es el objetivo principal del ajedrez?", "a": ["Dar jaque mate al rey rival", "Capturar todas las piezas", "Coronar un peón", "Ganar material"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué significa 'jaque mate'?", "a": ["El rey está en jaque y no hay jugada legal para evitarlo", "El rey ha sido capturado", "El rey está atacado pero puede capturar la pieza atacante", "Es una jugada que gana la dama"], "c": 0 },
 
-{ "cat": "Reglas del ajedrez", "q": "¿Cuántas jornadas puede un jugador subir a un equipo superior antes de quedar fijado?", "a": ["6", "5", "4", "7"], "c": 0 },
-{ "cat": "Reglas del ajedrez", "q": "¿Qué pasa tras superar ese límite?", "a": ["No puede volver al inferior", "Puede bajar libremente", "Pierde licencia", "Nada"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Se puede capturar el rey en ajedrez?", "a": ["No, la partida termina con jaque mate", "Sí, es obligatorio capturarlo", "Solo si está en el centro", "Solo con la dama"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué situación produce tablas por falta de movimientos legales sin estar en jaque?", "a": ["Ahogado", "Jaque mate", "Enroque", "Promoción"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué resultado tiene el ahogado?", "a": ["Tablas", "Ganan las blancas", "Ganan las negras", "Se repite la posición"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué pieza puede saltar sobre otras piezas?", "a": ["Caballo", "Alfil", "Torre", "Dama"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Cuál es el movimiento especial que involucra rey y torre?", "a": ["Enroque", "Promoción", "Captura al paso", "Jaque doble"], "c": 0 },
 
-{ "cat": "Reglas del ajedrez", "q": "¿Cuántos jugadores bises se permiten por tramo de 8 jugadores?", "a": ["2", "1", "3", "4"], "c": 0 },
-{ "cat": "Reglas del ajedrez", "q": "¿Cuántos bises se pueden alinear en un encuentro?", "a": ["2", "1", "3", "Ilimitados"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Cuál de estas condiciones impide enrocar?", "a": ["Que el rey haya movido antes", "Que la torre haya capturado una pieza antes", "Que el rey haya dado jaque antes", "Que el rey esté en el centro"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "Para enrocar, ¿puede el rey pasar por una casilla atacada?", "a": ["No", "Sí, si la torre protege", "Sí, si es enroque corto", "Depende del reloj"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Puede el rey enrocar si está en jaque?", "a": ["No", "Sí, si es jaque de caballo", "Sí, si se enroca largo", "Sí, siempre"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué pasa si intentas hacer una jugada ilegal?", "a": ["Debe corregirse y jugar una jugada legal", "Se pierde automáticamente", "Se gana automáticamente", "No ocurre nada"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Cuándo un peón puede avanzar dos casillas?", "a": ["En su primer movimiento desde su posición inicial", "Siempre que quiera", "Solo si está en la columna 'e'", "Solo si captura"], "c": 0 },
 
-{ "cat": "Reglas del ajedrez", "q": "¿Hasta cuándo se pueden añadir jugadores bis?", "a": ["Martes previo a la 4ª ronda", "Siempre", "Primera ronda", "Final temporada"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Cómo capturan los peones?", "a": ["En diagonal hacia adelante", "En vertical hacia adelante", "En diagonal hacia atrás", "Como la torre"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué es la captura al paso?", "a": ["Captura especial de peón tras un avance de dos casillas del rival", "Captura del rey con un peón", "Captura de una pieza que pasa por una casilla", "Captura que solo existe en blitz"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Cuándo se puede capturar 'al paso'?", "a": ["Solo inmediatamente en la jugada siguiente al avance de dos casillas", "En cualquier momento", "Solo si el rey está en jaque", "Solo si hay piezas mayores"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "Cuando un peón llega a la última fila, ¿qué ocurre?", "a": ["Promociona", "Se elimina", "Se convierte en rey", "Puede quedarse como peón"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿A qué piezas puede promocionar un peón normalmente?", "a": ["Dama, torre, alfil o caballo", "Solo dama", "Solo torre", "A cualquier pieza incluida el rey"], "c": 0 },
 
-{ "cat": "Reglas del ajedrez", "q": "¿Qué ocurre si un club tiene más equipos que grupos?", "a": ["Puede haber dos en mismo grupo", "No puede competir", "Debe eliminar uno", "Se fusionan"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Se puede promocionar a una pieza ya capturada (por ejemplo, a una segunda dama)?", "a": ["Sí", "No", "Solo en ajedrez960", "Solo en partidas rápidas"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué es 'jaque'?", "a": ["El rey está atacado por una pieza rival", "El rey ataca a una pieza", "Una oferta de tablas", "Una jugada de peón"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Es obligatorio responder al jaque con una jugada legal que lo elimine?", "a": ["Sí", "No", "Solo en torneos", "Solo si el árbitro lo ve"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Cuáles son las formas típicas de quitar un jaque?", "a": ["Mover el rey, capturar la pieza atacante o interponer una pieza (si procede)", "Mover cualquier peón", "Pedir al árbitro repetir", "Enrocar siempre"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Puede un rey quedarse en jaque tras tu jugada?", "a": ["No, es ilegal", "Sí, si es un sacrificio", "Sí, si se gana la dama", "Depende del tiempo"], "c": 0 },
 
-{ "cat": "Reglas del ajedrez", "q": "¿Qué pasa si dos equipos del mismo club coinciden en grupo?", "a": ["Juegan en primera ronda", "Nunca se enfrentan", "Empatan", "Se evita"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué significa 'pieza clavada' (pin) en términos de legalidad?", "a": ["Una pieza puede no poder moverse si deja al rey en jaque", "Una pieza siempre vale menos", "Una pieza duplicada en columna", "Un tipo de enroque"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué es una posición ilegal?", "a": ["Una posición que no puede alcanzarse por jugadas legales", "Una posición con ventaja", "Una posición con jaque", "Una posición sin damas"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Cuál de estas es una causa de tablas por regla?", "a": ["Repetición triple de la posición (según reglas)", "Tener menos material", "Perder la dama", "Hacer jaque"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué es la repetición triple?", "a": ["La misma posición aparece 3 veces con el mismo jugador al turno y mismos derechos", "Repetir una jugada 3 veces", "Hacer 3 jaques seguidos", "Mover la dama 3 veces"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué regla puede dar tablas si pasan muchas jugadas sin capturas ni movimientos de peón?", "a": ["Regla de las 50 jugadas", "Regla del enroque", "Regla del zugzwang", "Regla del gambito"], "c": 0 },
 
-{ "cat": "Reglas del ajedrez", "q": "¿Qué ocurre si un club presenta dos equipos en el mismo grupo?", "a": ["No pueden compartir jugadores", "Sí pueden", "Se turnan", "Depende"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué es una 'jugada' en ajedrez?", "a": ["Un movimiento de un jugador (una vez mueve blancas o negras)", "Mover dos piezas", "Mover y capturar en la misma", "Una ronda completa"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Cuál es el valor típico aproximado de una dama?", "a": ["9", "5", "3", "1"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Cuál es el valor típico aproximado de una torre?", "a": ["5", "9", "3", "1"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Cuál es el valor típico aproximado de un alfil o caballo?", "a": ["3", "5", "9", "2"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Cuántos alfiles tiene cada jugador al inicio?", "a": ["2", "1", "3", "0"], "c": 0 },
 
-{ "cat": "Reglas del ajedrez", "q": "¿Qué pasa si un jugador juega en dos equipos del mismo grupo?", "a": ["Alineación indebida", "Nada", "Advertencia", "Empate"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Cuántas torres tiene cada jugador al inicio?", "a": ["2", "1", "3", "0"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Cuántos caballos tiene cada jugador al inicio?", "a": ["2", "1", "3", "0"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Cuántas damas tiene cada jugador al inicio?", "a": ["1", "2", "0", "3"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Puede el rey capturar una pieza si la casilla de destino está defendida por el rival?", "a": ["No, sería ilegal por quedar en jaque", "Sí, siempre", "Sí, solo si es peón", "Depende del árbitro"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué significa 'toque-mueve' (en torneos con esa regla)?", "a": ["Si tocas una pieza tuya, debes moverla si es legal", "Si tocas una pieza rival, la quitas del tablero", "Si tocas el reloj pierdes", "Puedes cambiar de jugada"], "c": 0 },
 
-{ "cat": "Reglas del ajedrez", "q": "¿Qué ocurre si un equipo superior no se presenta pero uno inferior sí?", "a": ["Incomparecencia en todos implicados", "Nada", "Solo advertencia", "Empate"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "Si tocas una pieza rival (y hay captura legal), ¿qué suele implicar toque-mueve?", "a": ["Debes capturarla con tu pieza tocada si es legal", "Puedes ignorarlo siempre", "Pierdes la partida", "Solo aplica en blitz"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Cuál de estas es una forma correcta de anotar una jugada de peón a e4 (algebraico)?", "a": ["e4", "Pe4", "P-e4", "1e4"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Cómo se anota normalmente un enroque corto?", "a": ["O-O", "0-0-0", "OOO", "R-K"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Cómo se anota normalmente un enroque largo?", "a": ["O-O-O", "O-O", "0-0", "KOO"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué indica el símbolo '+' en notación?", "a": ["Jaque", "Jaque mate", "Captura", "Promoción"], "c": 0 },
 
-{ "cat": "Reglas del ajedrez", "q": "¿Qué ocurre si un equipo no tiene el mínimo de jugadores al inicio?", "a": ["No puede empezar", "Empieza igual", "Pierde un tablero", "Empate"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué indica el símbolo '#' en notación?", "a": ["Jaque mate", "Jaque", "Captura", "Tablas"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "En notación algebraica, ¿qué suele indicar una 'x'?", "a": ["Captura", "Jaque", "Promoción", "Enroque"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Cuál es una condición de tablas por material insuficiente?", "a": ["Rey contra rey", "Rey y dama contra rey", "Rey y torre contra rey", "Rey y dos torres contra rey"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Rey y alfil contra rey es material suficiente para dar mate forzado (generalmente)?", "a": ["No", "Sí", "Solo si el alfil es negro", "Solo si el rey está en el centro"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Rey y caballo contra rey es material suficiente para dar mate forzado (generalmente)?", "a": ["No", "Sí", "Solo en finales de peones", "Sí si queda poco tiempo"], "c": 0 },
 
-{ "cat": "Reglas del ajedrez", "q": "¿Cuál es el mínimo en División de Honor?", "a": ["7 jugadores", "6", "8", "5"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Cuál de estas combinaciones sí es suficiente para dar mate (en general)?", "a": ["Rey y dama contra rey", "Rey y caballo contra rey", "Rey y alfil contra rey", "Rey y dos caballos contra rey siempre"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué significa 'bandera' en ajedrez con reloj?", "a": ["Que se agotó el tiempo del jugador", "Que el jugador pidió pausa", "Que el rey está en jaque", "Que el árbitro detuvo la partida"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "Si se te cae la bandera (pierdes por tiempo), ¿siempre pierdes la partida?", "a": ["Pierdes si el rival tiene material suficiente para dar mate", "Siempre es tablas", "Siempre ganas", "Depende del color"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué es un 'ritmo de juego'?", "a": ["El tiempo asignado en el reloj (con o sin incremento)", "El número de piezas", "La apertura elegida", "El número de tableros"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué es un incremento Fischer?", "a": ["Se añade tiempo por cada jugada", "Se resta tiempo por cada captura", "El reloj no se usa", "Se añade tiempo solo al final"], "c": 0 },
 
-{ "cat": "Reglas del ajedrez", "q": "¿Cuánto tiempo de cortesía hay para presentarse?", "a": ["30 minutos", "15", "60", "10"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Puede un jugador hacer dos movimientos seguidos?", "a": ["No", "Sí si da jaque", "Sí en blitz", "Sí si el rival lo permite"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Puede un jugador mover una pieza a una casilla ocupada por una pieza propia?", "a": ["No", "Sí", "Solo el caballo", "Solo el rey"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Puede una torre saltar por encima de una pieza?", "a": ["No", "Sí", "Solo si es enroque", "Solo si captura"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Puede un alfil cambiar de color de casilla durante la partida?", "a": ["No, siempre permanece en el mismo color", "Sí, si captura", "Sí, si da jaque", "Depende del tablero"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué es una 'casilla'?", "a": ["Cada uno de los cuadrados del tablero", "Una fila", "Una columna", "Una pieza"], "c": 0 },
 
-{ "cat": "Reglas del ajedrez", "q": "¿Qué ocurre si se supera ese tiempo?", "a": ["Incomparecencia", "Advertencia", "Empate", "Nada"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Cómo se llaman las filas en ajedrez?", "a": ["Rangos (1 a 8)", "Columnas", "Diagonales", "Sectores"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Cómo se llaman las columnas en ajedrez?", "a": ["Archivos (a a h)", "Rangos", "Ejes", "Ramas"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué pieza empieza en d1 para blancas y en d8 para negras?", "a": ["Dama", "Rey", "Alfil", "Torre"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué pieza empieza en e1 para blancas y en e8 para negras?", "a": ["Rey", "Dama", "Alfil", "Caballo"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Dónde empiezan las torres blancas?", "a": ["a1 y h1", "b1 y g1", "c1 y f1", "d1 y e1"], "c": 0 },
 
-{ "cat": "Reglas del ajedrez", "q": "¿Qué penalización tiene una incomparecencia individual?", "a": ["-0,5 puntos", "-1 punto", "Nada", "Expulsión"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Dónde empiezan los caballos blancos?", "a": ["b1 y g1", "a1 y h1", "c1 y f1", "d1 y e1"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Dónde empiezan los alfiles blancos?", "a": ["c1 y f1", "b1 y g1", "a1 y h1", "d1 y e1"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué casilla es de color blanco en un tablero estándar?", "a": ["a1 es negra", "a1 es blanca", "h1 es negra", "d4 siempre es negra"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Cuál es una regla para colocar el tablero correctamente?", "a": ["La casilla h1 debe ser blanca", "La casilla a1 debe ser blanca", "La casilla e4 debe ser negra", "Da igual la orientación"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué ocurre si un jugador hace una jugada que deja su rey en jaque?", "a": ["Es ilegal y debe corregirse", "Es válida si el rival no se da cuenta", "Gana automáticamente", "Se considera tablas"], "c": 0 },
 
-{ "cat": "Reglas del ajedrez", "q": "¿Qué ocurre con el rival si está presente?", "a": ["Gana el punto", "Empata", "Se repite", "Nada"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Se puede dar jaque al rey propio (por ejemplo, mover una pieza para atacar tu rey)?", "a": ["No, es ilegal", "Sí, para ganar tiempo", "Sí, si es mate", "Solo en partidas amistosas"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué significa 'ofrecer tablas'?", "a": ["Proponer empate al rival", "Pedir repetir jugada", "Pedir cambiar de color", "Pedir tiempo extra"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Cuándo se aceptan tablas por acuerdo?", "a": ["Cuando el rival acepta la oferta", "Cuando uno lo diga en voz alta", "Cuando lo diga el árbitro siempre", "Solo si hay repetición"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué es una 'reclamación de tablas' por repetición?", "a": ["Solicitar al árbitro tablas si se cumple la repetición", "Pedir tablas cada 3 jugadas", "Parar el reloj y declarar tablas", "Anotar 'tablas' y ya"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué condición es necesaria para que dos posiciones se consideren 'la misma' en repetición?", "a": ["Mismo turno, mismas piezas en mismas casillas, mismos derechos (enroque/al paso)", "Solo que las piezas sean iguales", "Solo que el rey esté igual", "Solo que el material sea igual"], "c": 0 },
 
-{ "cat": "Reglas del ajedrez", "q": "¿Puede un jugador incompareciente jugar la siguiente ronda?", "a": ["No", "Sí", "Depende", "Solo si gana"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué significa 'pieza tocada' en toque-mueve?", "a": ["La pieza que has tocado con intención de mover", "Una pieza atacada", "Una pieza clavada", "Una pieza capturada"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Cuál es una acción correcta para ajustar piezas sin que aplique toque-mueve (en torneos)?", "a": ["Decir 'j'adoube' o 'ajusto' antes de tocar", "Tocar y luego decirlo", "Pedir permiso al rival cada vez", "No se puede ajustar nunca"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Cuál es el movimiento del rey?", "a": ["Una casilla en cualquier dirección", "Dos casillas en diagonal", "Como un caballo", "Cualquier número de casillas"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Cuál es una regla básica sobre el rey?", "a": ["No puede moverse a una casilla atacada", "Siempre puede capturar", "Puede saltar piezas", "Puede enrocar estando en jaque"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué es 'oposición' en finales de reyes y peones?", "a": ["Una relación de casillas entre reyes para ganar el paso", "Una pieza atacando al rey", "Una apertura", "Un tipo de jaque"], "c": 0 },
 
-{ "cat": "Reglas del ajedrez", "q": "¿Qué pasa con dos incomparecencias en temporada?", "a": ["Inhabilitado", "Multa", "Advertencia", "Nada"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "En ajedrez estándar, ¿quién mueve primero?", "a": ["Blancas", "Negras", "El que tenga menos elo", "El que llegue antes"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué se considera una partida ganada por abandono?", "a": ["Cuando un jugador se rinde", "Cuando se cambia la dama", "Cuando hay jaque", "Cuando se repite la apertura"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué significa 'abandono' (resign)?", "a": ["Rendirse y dar la partida por perdida", "Salir de la sala a beber agua", "No mover durante 5 segundos", "Pedir tablas"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Se puede enrocar con una torre que no está en su casilla original?", "a": ["No", "Sí", "Solo en ajedrez960", "Solo si está en la misma fila"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "Para enrocar, ¿deben estar vacías las casillas entre rey y torre?", "a": ["Sí", "No", "Solo en enroque largo", "Solo si hay jaque"], "c": 0 },
 
-{ "cat": "Reglas del ajedrez", "q": "¿Cuándo se considera tablero vacío?", "a": ["Sin nombre en acta", "Sin jugador", "Con retraso", "Con error"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Puede el rey terminar el enroque en una casilla atacada?", "a": ["No", "Sí", "Solo en enroque corto", "Solo si se da jaque"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Cuál es el criterio básico de movimiento del alfil?", "a": ["Diagonal", "Recta", "Salto en L", "Solo hacia adelante"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Cuál es el criterio básico de movimiento de la torre?", "a": ["Recta", "Diagonal", "Salto", "Solo hacia adelante"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué pieza empieza siempre en casilla del mismo color que su alfil (por ejemplo, alfil de casillas blancas)?", "a": ["Ese alfil siempre permanece en ese color", "La torre cambia de color", "El caballo no pisa casillas", "El rey alterna color"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué es un 'jaque descubierto'?", "a": ["Jaque al mover una pieza que desvela el ataque de otra", "Jaque con un peón", "Jaque mate rápido", "Jaque ilegal"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué es un 'doble jaque'?", "a": ["Dos piezas dan jaque al mismo tiempo", "Dar jaque dos veces seguidas", "Jaque al rey y a la dama", "Jaque al paso"], "c": 0 },
 
-{ "cat": "Reglas del ajedrez", "q": "¿Dónde pueden colocarse tableros vacíos?", "a": ["Últimos tableros del último equipo", "Cualquiera", "Solo primero", "Centro"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "En una partida con reloj, ¿qué acción normalmente completa tu jugada?", "a": ["Pulsar el reloj", "Decir 'jaque'", "Anotar la jugada", "Pedir al árbitro revisar"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Cuál es una razón típica de pérdida automática (reglamentaria) en torneos?", "a": ["Hacer una jugada ilegal repetida según reglamento", "Capturar un peón", "Ofrecer tablas", "Dar jaque"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué es una 'incomparecencia' en competición?", "a": ["No presentarse a jugar dentro del tiempo de tolerancia", "Ofrecer tablas", "Pedir un descanso", "Cambiar de apertura"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué suele pasar si un jugador no llega antes de que termine el tiempo de tolerancia (según bases)?", "a": ["Pierde la partida por incomparecencia", "Gana por tiempo", "Se repite la ronda", "Se reduce el tablero"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué significa 'ronda' en un torneo?", "a": ["Conjunto de partidas programadas en un momento del calendario", "Una apertura", "Un tipo de mate", "Una columna del tablero"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué es un sistema suizo (en torneos)?", "a": ["Sistema donde emparejamientos dependen de la puntuación", "Todos contra todos", "Eliminación directa", "Liga a ida y vuelta"], "c": 0 },
 
-{ "cat": "Reglas del ajedrez", "q": "¿Qué ocurre si no se respeta esto?", "a": ["Alineación indebida", "Nada", "Advertencia", "Empate"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué es una liga 'todos contra todos' (Round Robin)?", "a": ["Cada jugador juega contra todos los demás", "Se juega por eliminación", "Se juega por equipos", "Se juega sin reloj"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué significa 'Elo' en ajedrez?", "a": ["Sistema de puntuación/ranking", "Un tipo de pieza", "Una apertura", "Una regla de tablas"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué es el 'desempate' en torneos?", "a": ["Criterios para ordenar jugadores con misma puntuación", "Una jugada obligatoria", "Una penalización", "Un tipo de mate"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Cuál de estos es un criterio de desempate muy común en suizo?", "a": ["Buchholz", "Enroque", "Promoción", "Ahogado"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué es Buchholz (idea general)?", "a": ["Suma de puntuaciones de los rivales", "Número de jaques", "Número de capturas", "Tiempo usado"], "c": 0 },
 
-{ "cat": "Reglas del ajedrez", "q": "¿Qué ocurre si un equipo acumula 8 incomparecencias?", "a": ["Desciende", "Multa", "Repite", "Nada"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué es Sonneborn-Berger (idea general)?", "a": ["Desempate basado en resultados y puntuación de rivales (especialmente en ligas)", "Número de peones", "Número de tablas", "Número de promociones"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Se puede reclamar tablas por 50 jugadas aunque haya jaques?", "a": ["Sí, si no hubo capturas ni movimientos de peón en 50 jugadas", "No, los jaques lo impiden", "Solo en blitz", "Solo si lo anotas"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué significa que una pieza está 'defendida'?", "a": ["Otra pieza propia puede capturar a quien la capture", "No puede moverse", "Vale más puntos", "Está en el centro"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué es 'captura'?", "a": ["Mover a una casilla ocupada por pieza rival y retirarla", "Mover dos casillas", "Cambiar una pieza por otra", "Dar jaque"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Puede un peón capturar hacia adelante?", "a": ["No", "Sí", "Solo si es al paso", "Solo si está en 7ª"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué es una 'pieza mayor' normalmente?", "a": ["Dama y torres", "Alfiles y caballos", "Peones", "Solo el rey"], "c": 0 },
 
-{ "cat": "Reglas del ajedrez", "q": "¿Quién debe mostrar el orden de fuerza antes del encuentro?", "a": ["Capitán", "Árbitro", "Jugador 1", "Club"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué es una 'pieza menor' normalmente?", "a": ["Alfiles y caballos", "Dama y torres", "Rey y dama", "Solo peones"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué significa 'desarrollo' (idea básica)?", "a": ["Sacar piezas y mejorar su actividad en la apertura", "Cambiar damas", "Coronar un peón", "Hacer tablas"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué es una 'columna abierta'?", "a": ["Una columna sin peones", "Una diagonal sin piezas", "Una fila sin piezas", "Una columna con dos peones"], "c": 0 },
+  { "cat": "Reglas del ajedrez", "q": "¿Qué es un 'peón pasado'?", "a": ["Un peón sin peones rivales en columnas adyacentes que lo puedan detener", "Un peón que retrocede", "Un peón que ya capturó", "Un peón clavado"], "c": 0 }
+]
 
-{ "cat": "Reglas del ajedrez", "q": "¿Qué documento puede sustituir licencia?", "a": ["DNI u otro identificativo", "Nada", "ELO", "Ranking"], "c": 0 },
-
-{ "cat": "Reglas del ajedrez", "q": "¿Qué pasa si el acta tiene errores?", "a": ["Puede ser sancionado", "Nada", "Empate", "Repetición"], "c": 0 },
-
-{ "cat": "Reglas del ajedrez", "q": "¿Quién es responsable del acta?", "a": ["Capitanes", "Árbitro", "Club visitante", "Jugadores"], "c": 0 },
-
-{ "cat": "Reglas del ajedrez", "q": "¿Qué implica firmar el acta sin incidencias?", "a": ["Aceptar contenido", "Nada", "Reclamar", "Repetir"], "c": 0 },
-
-{ "cat": "Reglas del ajedrez", "q": "¿Cuánto tiempo hay para reclamar alineación indebida?", "a": ["48 horas", "24", "72", "1 semana"], "c": 0 },
-
-{ "cat": "Reglas del ajedrez", "q": "¿Qué ocurre si no hay reclamación?", "a": ["Resultado válido", "Se revisa", "Se repite", "Empate"], "c": 0 },
-
-{ "cat": "Reglas del ajedrez", "q": "¿Qué debe hacer un jugador si hay disputa?", "a": ["Seguir bajo condición", "Parar partida", "Abandonar", "Ignorar"], "c": 0 },
-
-{ "cat": "Reglas del ajedrez", "q": "¿Qué ocurre si un jugador se niega a seguir bajo condición?", "a": ["Pierde la partida", "Nada", "Empate", "Advertencia"], "c": 0 },
-
-{ "cat": "Reglas del ajedrez", "q": "¿Quién toma la decisión final en reclamaciones?", "a": ["Comité de Competición", "Árbitro", "Capitán", "Jugador"], "c": 0 }
 
 
 
