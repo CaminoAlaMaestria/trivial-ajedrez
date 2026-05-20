@@ -51,7 +51,7 @@
 { "cat": "Reglas del ajedrez", "q": "¿Qué significa el resultado 1-0?", "a": ["Ganan negras", "Ganan blancas", "Tablas", "Partida anulada"], "c": 1 },
 { "cat": "Reglas del ajedrez", "q": "¿Qué significa el resultado 1/2-1/2?", "a": ["Victoria blanca", "Victoria negra", "Empate", "Abandono"], "c": 2 },
 { "cat": "Reglas del ajedrez", "q": "¿Cuándo ocurre el ahogado?", "a": ["Cuando el rey está en jaque", "Cuando no hay movimientos legales y el rey no está en jaque", "Cuando se captura la dama", "Cuando hay mate"], "c": 1 },
-{ "cat": "Reglas del ajedrez", "q": "¿Qué es una posición muerta?", "a": ["Cuando hay muchas piezas", "Cuando nadie puede dar mate con jugadas legales", "Cuando hay jaque", "Cuando hay promoción"], "c": 1 }
+{ "cat": "Reglas del ajedrez", "q": "¿Qué es una posición muerta?", "a": ["Cuando hay muchas piezas", "Cuando nadie puede dar mate con jugadas legales", "Cuando hay jaque", "Cuando hay promoción"], "c": 1 },
 
   { "cat": "Teoría de ajedrez", "q": "¿Qué es el enroque?", "a": ["Una jugada especial de rey y torre", "Un tipo de jaque mate", "Una apertura", "Un sacrificio"], "c": 0 },
   { "cat": "Teoría de ajedrez", "q": "¿Qué pieza es más valiosa?", "a": ["La dama", "El alfil", "El caballo", "El peón"], "c": 0 },
