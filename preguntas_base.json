@@ -36,7 +36,7 @@
 { "cat": "Reglas del ajedrez", "q": "¿Cómo se anotan las capturas en ajedrez?", "a": ["Con un +", "Con una x", "Con un -", "Con un #"], "c": 1 },
 { "cat": "Reglas del ajedrez", "q": "¿Cómo se escribe una captura de dama en g7?", "a": ["Dg7", "Dxg7", "D-g7", "D#g7"], "c": 1 },
 { "cat": "Reglas del ajedrez", "q": "¿Cómo se anota una captura de peón desde la columna g a f4?", "a": ["gxf4", "pf4", "xf4", "gf4"], "c": 0 },
-{ "cat": "Reglas del ajedrez", "q": "¿Qué símbolo se usa para indicar jaque mate?", "a": ["+", "x", "# o ++", "-",], "c": 2 },
+{ "cat": "Reglas del ajedrez", "q": "¿Qué símbolo se usa para indicar jaque mate?", "a": ["+", "x", "# o ++", "-"], "c": 2 },
 { "cat": "Reglas del ajedrez", "q": "¿Cómo se anota el enroque corto?", "a": ["0-0", "0-0-0", "OO", "RR"], "c": 0 },
 { "cat": "Reglas del ajedrez", "q": "¿Cómo se anota el enroque largo?", "a": ["0-0", "0-0-0", "OOO", "LL"], "c": 1 },
 { "cat": "Reglas del ajedrez", "q": "¿Cómo se indica la coronación de un peón en h8 a dama?", "a": ["h8=D", "D=h8", "h8xD", "h8-D"], "c": 0 },
