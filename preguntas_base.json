@@ -65,5 +65,5 @@
   { "cat": "Problemas de ajedrez", "q": "¿Qué significa 'clavada'?", "a": ["Pieza inmóvil por proteger al rey", "Ataque doble", "Movimiento ilegal", "Error del rival"], "c": 0 },
   { "cat": "Problemas de ajedrez", "q": "¿Cómo se llama el sacrificio de dama para dar mate?", "a": ["Sacrificio de dama", "Gambito de dama", "Ataque griego", "Clavada"], "c": 0 },
   { "cat": "Problemas de ajedrez", "q": "¿Qué es un mate de Boden?", "a": ["Dos alfiles dando mate cruzado", "Dama y torre atacando al rey", "Mate con caballos", "Mate con peones"], "c": 0 },
-  { "cat": "Problemas de ajedrez", "q": "¿Qué es un mate de Legal?", "a": ["Combinación clásica con sacrificio de dama", "Ataque con enroque largo", "Defensa francesa", "Táctica de tablas"], "c": 0 }
+  { "cat": "Problemas de ajedrez", "q": "¿Qué es un mate de Legal?", "a": ["Combinación clásica con sacrificio de dama", "Ataque con enroque largo", "Defensa francesa", "Táctica de tablas"], "c": 0 },
 ]
