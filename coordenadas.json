@@ -1,0 +1,466 @@
+{
+  "center": {
+    "x": 49.947917461395264,
+    "y": 49.67447817325592
+  },
+  "spokes": [
+    {
+      "cells": [
+        {
+          "x": 57.5000007947286,
+          "y": 76.7578125,
+          "type": "cat",
+          "cat": "Historia del ajedrez"
+        },
+        {
+          "x": 53.854167461395264,
+          "y": 64.5703117052714,
+          "type": "cat",
+          "cat": "Jugadores actuales"
+        },
+        {
+          "x": 52.6562492052714,
+          "y": 60.611979166666664,
+          "type": "cat",
+          "cat": "Jugadores históricos"
+        },
+        {
+          "x": 51.77083412806193,
+          "y": 57.01822837193807,
+          "type": "cat",
+          "cat": "Reglas del ajedrez"
+        },
+        {
+          "x": 56.197917461395264,
+          "y": 72.33072916666666,
+          "type": "cat",
+          "cat": "Teoría de ajedrez"
+        },
+        {
+          "x": 55.05208571751913,
+          "y": 68.4765617052714,
+          "type": "wedge",
+          "cat": "Historia del ajedrez"
+        }
+      ]
+    },
+    {
+      "cells": [
+        {
+          "x": 61.458333333333336,
+          "y": 52.226561307907104,
+          "type": "cat",
+          "cat": "Historia del ajedrez"
+        },
+        {
+          "x": 73.12500476837158,
+          "y": 55.24739623069763,
+          "type": "cat",
+          "cat": "Jugadores actuales"
+        },
+        {
+          "x": 65.20833571751913,
+          "y": 53.007811307907104,
+          "type": "cat",
+          "cat": "Jugadores históricos"
+        },
+        {
+          "x": 77.76041825612387,
+          "y": 56.54947956403097,
+          "type": "cat",
+          "cat": "Reglas del ajedrez"
+        },
+        {
+          "x": 69.11458174387613,
+          "y": 54.153645038604736,
+          "type": "cat",
+          "cat": "Teoría de ajedrez"
+        },
+        {
+          "x": 57.70833492279053,
+          "y": 51.08073055744171,
+          "type": "wedge",
+          "cat": "Jugadores actuales"
+        }
+      ]
+    },
+    {
+      "cells": [
+        {
+          "x": 61.041669050852455,
+          "y": 37.43489384651184,
+          "type": "cat",
+          "cat": "Historia del ajedrez"
+        },
+        {
+          "x": 63.85416587193807,
+          "y": 34.778643647829696,
+          "type": "cat",
+          "cat": "Jugadores actuales"
+        },
+        {
+          "x": 66.66666666666666,
+          "y": 32.01822638511658,
+          "type": "cat",
+          "cat": "Jugadores históricos"
+        },
+        {
+          "x": 58.2812507947286,
+          "y": 40.09114305178325,
+          "type": "cat",
+          "cat": "Reglas del ajedrez"
+        },
+        {
+          "x": 55.572919050852455,
+          "y": 42.90364384651184,
+          "type": "cat",
+          "cat": "Teoría de ajedrez"
+        },
+        {
+          "x": 70.26042143503824,
+          "y": 28.94530991713206,
+          "type": "wedge",
+          "cat": "Jugadores históricos"
+        }
+      ]
+    },
+    {
+      "cells": [
+        {
+          "x": 43.48958333333333,
+          "y": 25.664060811201733,
+          "type": "cat",
+          "cat": "Historia del ajedrez"
+        },
+        {
+          "x": 47.91666666666667,
+          "y": 41.184894243876144,
+          "type": "cat",
+          "cat": "Jugadores actuales"
+        },
+        {
+          "x": 44.583332538604736,
+          "y": 29.72655991713206,
+          "type": "cat",
+          "cat": "Jugadores históricos"
+        },
+        {
+          "x": 45.57291666666667,
+          "y": 33.37239523728688,
+          "type": "cat",
+          "cat": "Reglas del ajedrez"
+        },
+        {
+          "x": 42.3437515894572,
+          "y": 21.18489295244217,
+          "type": "cat",
+          "cat": "Teoría de ajedrez"
+        },
+        {
+          "x": 46.45833571751912,
+          "y": 37.17447419961293,
+          "type": "wedge",
+          "cat": "Reglas del ajedrez"
+        }
+      ]
+    },
+    {
+      "cells": [
+        {
+          "x": 30.729166666666668,
+          "y": 43.89322896798451,
+          "type": "cat",
+          "cat": "Historia del ajedrez"
+        },
+        {
+          "x": 22.395833333333336,
+          "y": 41.60155753294627,
+          "type": "cat",
+          "cat": "Jugadores actuales"
+        },
+        {
+          "x": 42.239582538604736,
+          "y": 46.757812301317855,
+          "type": "cat",
+          "cat": "Jugadores históricos"
+        },
+        {
+          "x": 26.7187496026357,
+          "y": 42.4348920583725,
+          "type": "cat",
+          "cat": "Reglas del ajedrez"
+        },
+        {
+          "x": 38.489584128061935,
+          "y": 45.872391263643905,
+          "type": "cat",
+          "cat": "Teoría de ajedrez"
+        },
+        {
+          "x": 34.27083492279053,
+          "y": 44.88280912240346,
+          "type": "wedge",
+          "cat": "Teoría de ajedrez"
+        }
+      ]
+    },
+    {
+      "cells": [
+        {
+          "x": 44.06249920527141,
+          "y": 54.778640468915306,
+          "type": "cat",
+          "cat": "Historia del ajedrez"
+        },
+        {
+          "x": 41.40625,
+          "y": 57.330724596977234,
+          "type": "cat",
+          "cat": "Jugadores actuales"
+        },
+        {
+          "x": 29.8437496026357,
+          "y": 69.25780773162842,
+          "type": "cat",
+          "cat": "Jugadores históricos"
+        },
+        {
+          "x": 35.78125238418579,
+          "y": 62.95572519302368,
+          "type": "cat",
+          "cat": "Reglas del ajedrez"
+        },
+        {
+          "x": 38.489584128061935,
+          "y": 60.35155852635702,
+          "type": "cat",
+          "cat": "Teoría de ajedrez"
+        },
+        {
+          "x": 33.020834128061935,
+          "y": 65.87239106496176,
+          "type": "wedge",
+          "cat": "Problemas de ajedrez"
+        }
+      ]
+    }
+  ],
+  "outer": [
+    {
+      "x": 73.85416825612387,
+      "y": 65.40364225705466,
+      "type": "cat",
+      "cat": "Historia del ajedrez"
+    },
+    {
+      "x": 75.72917143503824,
+      "y": 62.12239066759745,
+      "type": "cat",
+      "cat": "Jugadores actuales"
+    },
+    {
+      "x": 71.25000158945718,
+      "y": 68.00780892372131,
+      "type": "cat",
+      "cat": "Jugadores históricos"
+    },
+    {
+      "x": 66.04166825612387,
+      "y": 72.59114185969034,
+      "type": "cat",
+      "cat": "Reglas del ajedrez"
+    },
+    {
+      "x": 62.760416666666664,
+      "y": 74.5182236035665,
+      "type": "cat",
+      "cat": "Teoría de ajedrez"
+    },
+    {
+      "x": 68.80208651224771,
+      "y": 70.76822519302368,
+      "type": "cat",
+      "cat": "Problemas de ajedrez"
+    },
+    {
+      "x": 37.447917461395264,
+      "y": 75.19530852635702,
+      "type": "cat",
+      "cat": "Historia del ajedrez"
+    },
+    {
+      "x": 44.53125,
+      "y": 77.2265593210856,
+      "type": "cat",
+      "cat": "Jugadores actuales"
+    },
+    {
+      "x": 48.072918256123856,
+      "y": 77.69531011581421,
+      "type": "cat",
+      "cat": "Jugadores históricos"
+    },
+    {
+      "x": 40.72916905085246,
+      "y": 76.02864106496176,
+      "type": "cat",
+      "cat": "Reglas del ajedrez"
+    },
+    {
+      "x": 51.77083412806193,
+      "y": 77.6432236035665,
+      "type": "cat",
+      "cat": "Teoría de ajedrez"
+    },
+    {
+      "x": 34.21875238418579,
+      "y": 72.90364106496176,
+      "type": "cat",
+      "cat": "Problemas de ajedrez"
+    },
+    {
+      "x": 21.614583333333336,
+      "y": 54.67447439829508,
+      "type": "cat",
+      "cat": "Historia del ajedrez"
+    },
+    {
+      "x": 24.062500397364296,
+      "y": 61.49739225705465,
+      "type": "cat",
+      "cat": "Jugadores actuales"
+    },
+    {
+      "x": 21.14583452542623,
+      "y": 50.76822439829508,
+      "type": "cat",
+      "cat": "Jugadores históricos"
+    },
+    {
+      "x": 21.14583452542623,
+      "y": 47.07030802965164,
+      "type": "cat",
+      "cat": "Reglas del ajedrez"
+    },
+    {
+      "x": 22.552082935969032,
+      "y": 58.059891064961754,
+      "type": "cat",
+      "cat": "Teoría de ajedrez"
+    },
+    {
+      "x": 26.041666666666668,
+      "y": 64.77864185969034,
+      "type": "cat",
+      "cat": "Problemas de ajedrez"
+    },
+    {
+      "x": 77.08333333333334,
+      "y": 39.93489146232605,
+      "type": "cat",
+      "cat": "Historia del ajedrez"
+    },
+    {
+      "x": 78.59375476837158,
+      "y": 50.716141859690346,
+      "type": "cat",
+      "cat": "Jugadores actuales"
+    },
+    {
+      "x": 74.11458492279053,
+      "y": 33.26822519302368,
+      "type": "cat",
+      "cat": "Jugadores históricos"
+    },
+    {
+      "x": 75.78125,
+      "y": 36.18489106496175,
+      "type": "cat",
+      "cat": "Reglas del ajedrez"
+    },
+    {
+      "x": 78.17708651224771,
+      "y": 43.268225590387985,
+      "type": "cat",
+      "cat": "Teoría de ajedrez"
+    },
+    {
+      "x": 78.54166825612387,
+      "y": 46.96614543596904,
+      "type": "cat",
+      "cat": "Problemas de ajedrez"
+    },
+    {
+      "x": 48.28125238418579,
+      "y": 20.299474398295082,
+      "type": "cat",
+      "cat": "Historia del ajedrez"
+    },
+    {
+      "x": 58.9062492052714,
+      "y": 22.122391064961754,
+      "type": "cat",
+      "cat": "Jugadores actuales"
+    },
+    {
+      "x": 65.625,
+      "y": 25.039057930310566,
+      "type": "cat",
+      "cat": "Jugadores históricos"
+    },
+    {
+      "x": 55.520832538604736,
+      "y": 20.820307731628418,
+      "type": "cat",
+      "cat": "Reglas del ajedrez"
+    },
+    {
+      "x": 52.13541587193807,
+      "y": 20.19530882438024,
+      "type": "cat",
+      "cat": "Teoría de ajedrez"
+    },
+    {
+      "x": 62.39583492279053,
+      "y": 23.26822429895401,
+      "type": "cat",
+      "cat": "Problemas de ajedrez"
+    },
+    {
+      "x": 37.135418256123856,
+      "y": 23.111974696318306,
+      "type": "cat",
+      "cat": "Historia del ajedrez"
+    },
+    {
+      "x": 33.90624920527141,
+      "y": 24.882808327674866,
+      "type": "cat",
+      "cat": "Jugadores actuales"
+    },
+    {
+      "x": 30.885416269302368,
+      "y": 27.018224199612934,
+      "type": "cat",
+      "cat": "Jugadores históricos"
+    },
+    {
+      "x": 24.01041785875956,
+      "y": 35.92447439829509,
+      "type": "cat",
+      "cat": "Reglas del ajedrez"
+    },
+    {
+      "x": 25.78125,
+      "y": 32.695307334264115,
+      "type": "cat",
+      "cat": "Teoría de ajedrez"
+    },
+    {
+      "x": 28.33333412806193,
+      "y": 29.674474398295086,
+      "type": "cat",
+      "cat": "Problemas de ajedrez"
+    }
+  ]
+}
